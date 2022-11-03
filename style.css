@@ -1,0 +1,29 @@
+body{
+   margin: 100px;
+    color: aliceblue;
+    background-color: black;
+}
+#name{
+    color: yellow;
+}
+.about{
+    text-align: center;
+}
+h2, h3,h4 {
+    text-align: center;
+}
+.film{
+    font-family:sans-serif;
+}
+a {
+    display: flex;
+    justify-content: space-around;
+}
+.last{
+    display: flex;
+    justify-content:space-around;
+}
+figcaption{
+    display: flex;
+    justify-content: center;
+}
